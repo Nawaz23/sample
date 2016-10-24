@@ -1,0 +1,31 @@
+.navbar
+{
+	background-color:#282828;
+	border-color:white;
+}
+
+.navbar li a:hovar{
+	color:red !important;
+}
+
+.active{
+	background-color:blue;
+}
+
+.banner{
+	background-color:#11223b;
+	color:white;
+
+}
+header{
+	padding:5px 5px !important;
+	
+}
+
+footer{
+clear:both;
+background-color:#20416c;
+color:white;
+padding:5px 10px;
+margin-top:10px !important;
+}
